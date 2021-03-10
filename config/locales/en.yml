@@ -1,0 +1,16 @@
+en:
+  layout:
+    about: "ABOUT COMPANY"
+    activity: "ACTIVITY"
+    partners: "PARTTNERS"
+    trade: "TRADE, WHOLESALE AND RETAIL"
+    contacts: "CONTACTS"
+    write: "BY E-MAIL"
+    connect: "CONNECT WITH US" 
+  index:
+    partners: "OUR PARTNERS"
+    send: "  SEND  "
+    write: "WRITE TO US"
+  form:
+    message: "Text"
+    name: "Name"       

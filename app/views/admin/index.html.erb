@@ -1,0 +1,8 @@
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />    
+<div class="container nav"> 
+  <% if current_user %>
+  <%= link_to "Выход", destroy_user_session_path, method: :delete, :class => "btn btn-dark" %>
+<% else %>
+  <p><%= link_to "Вход", new_user_session_path, :class => "btn btn-primary" %></p>  
+<% end %>
+</div>
